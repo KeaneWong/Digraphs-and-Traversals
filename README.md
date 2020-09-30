@@ -1,2 +1,2 @@
 # Graphs-and-Traversals
-Adjacency list based graphs built to handle graphs represented with names, associated string codes for nodes, and relative weight values for edges.
+Adjacency list based graphs built to handle graphs represented with names, associated string codes for nodes, and relative weight values for edges. Main function contains an example test driver that takes in a list of flights, a list of airports, and associated information from two input files line by line. Ultimately places the processed information into an output text file or prints Dijkstra path traversals to console.
